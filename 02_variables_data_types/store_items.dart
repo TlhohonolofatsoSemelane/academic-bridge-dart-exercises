@@ -13,7 +13,7 @@ void main() {
     "price": price,
     "inStock": inStock,
   };
-  Set<String> uniqueColors = {"black", "white", "black"}; // duplicate removed
+  Set<String> uniqueColors = {"black", "white", "black"}; 
 
   print("Year: $year");
   print("Price: $price");
